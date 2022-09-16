@@ -12,9 +12,9 @@ def read_config() -> dict:
     global_config = datastore.read_field(datastore_field_id)
 
 
-tg_api_id = 14681595
-tg_api_hash = "a86730aab5c59953c424abb4396d32d5"
-tg_bot_token = "5356126817:AAFfdxFDSQRvANKvjnWNoBGCxY0sZAefVcA"
+tg_api_id = 12244448
+tg_api_hash = "890bdfa19a5ce152a64a80917fe7be29"
+tg_bot_token = "5478857996:AAGNVPRBE0VaOWqQD4CljEMf0tBUImDAjxA"
 datastore_store_id = -1001695628050
 datastore_field_id = 4
 global_config = {}
